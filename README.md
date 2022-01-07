@@ -5,3 +5,6 @@ Vjezba 1: [Laboratorijske_vjebe_SRP.pdf](https://github.com/AntonioBalic/Laborat
 Vjezba 2: [Vjeba_2.pdf](https://github.com/AntonioBalic/Laboratorijske-vjezbe-SRP/files/7442551/Vjeba_2.pdf)
 
 Vjezba 3: [Vjeba_3.pdf](https://github.com/AntonioBalic/Laboratorijske-vjezbe-SRP/files/7533690/Vjeba_3.pdf)
+
+
+Vjezba 5: [Vjeba_5.pdf](https://github.com/AntonioBalic/Laboratorijske-vjezbe-SRP/files/7830538/Vjeba_5.pdf)
